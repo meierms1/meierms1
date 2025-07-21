@@ -81,7 +81,7 @@ Sir Isaac Newton
 ---
 
 <p align="center">
-  <img src="https://github.com/meierms1/meierms1/raw/main/assets/profile-banner.png" alt="Profile Banner" width="60%"/>
+  <img src="https://github.com/meierms1/meierms1/blob/main/github-header-image.png" alt="Profile Banner" width="60%"/>
 </p>
 
 <p align="center">
