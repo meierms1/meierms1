@@ -54,14 +54,15 @@ I'm a multidisciplinary developer passionate about blending science, design, and
 - [meierms1/wp](https://github.com/meierms1/wp)  
   <sub><i>Stylish, automated web project with CSS, HTML, and Python</i></sub>
 
-- [meierms1/FastReport](https://github.com/meierms1/FastReport)  
+- [meierms1/FastReport](https://github.com/meierms1/FastReport)
   <sub><i>Fast and flexible reporting with C#</i></sub>
 
-- [meierms1/JobHunter](https://github.com/meierms1/jobhunter).
+- [meierms1/JobHunter](https://github.com/meierms1/jobhunter)
   <sub><i>Simple windows app for streamlining cover letter generation using LLM APIs </i></sub>
 
 - [meierms1/DimensionReduction](https://github.com/meierms1/Supervised-Dimension-Reduction-For-Optical-Vapor-Sensing)
   <sub><i>Machine learning, dimension reduction methods for vapor detection with Python</i></sub>
+  
 ---
 
 💡 **My Philosophy**
