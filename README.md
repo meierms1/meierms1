@@ -17,7 +17,7 @@
 I'm a multidisciplinary developer passionate about blending science, design, and modern technology into impactful software. My journey bridges rigorous scientific computing with expressive web design and automation, always striving to build tools that make a difference.
 
 - 🧑‍🔬 **Scientific Computing**:  
-  Lead developer on [Alamo](https://github.com/solidsgroup/alamo) — building high-performance C++ solvers for solid mechanics with adaptive mesh refinement (AMR).  
+  Developer on [Alamo](https://github.com/solidsgroup/alamo) — building high-performance C++ solvers for phase-field modeling with adaptive mesh refinement (AMR).  
   *Pushing the boundaries of simulation accuracy and computational efficiency.*
 
 - 🎨 **Web Design & Automation**:  
@@ -26,6 +26,9 @@ I'm a multidisciplinary developer passionate about blending science, design, and
 
 - 📊 **Data & Reporting**:  
   Developer of [FastReport](https://github.com/meierms1/FastReport), crafting robust reporting tools in C# to turn complex data into actionable insights.
+
+- 🧑‍💻 **Coding Conviniences**:
+  Implemented [JobHunter](https://github.com/meierms1/jobhunter), a simple tool to streamline cover letter writing using LLM APIs.
 
 ---
 
@@ -38,6 +41,7 @@ I'm a multidisciplinary developer passionate about blending science, design, and
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-blue?logo=sql" alt="SQL"/>
 </p>
 
 ---
@@ -53,6 +57,11 @@ I'm a multidisciplinary developer passionate about blending science, design, and
 - [meierms1/FastReport](https://github.com/meierms1/FastReport)  
   <sub><i>Fast and flexible reporting with C#</i></sub>
 
+- [meierms1/JobHunter](https://github.com/meierms1/jobhunter).
+  <sub><i>Simple windows app for streamlining cover letter generation using LLM APIs </i></sub>
+
+- [meierms1/DimensionReduction](https://github.com/meierms1/Supervised-Dimension-Reduction-For-Optical-Vapor-Sensing)
+  <sub><i>Machine learning, dimension reduction methods for vapor detection with Python</i></sub>
 ---
 
 💡 **My Philosophy**
@@ -64,7 +73,9 @@ I thrive in collaborative environments, value clean code, and am always ready to
 ---
 
 
-"I don't know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." Isaac Newton.
+> "I don't know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."
+
+Sir Isaac Newton
 
 ---
 
