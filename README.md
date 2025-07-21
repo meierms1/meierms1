@@ -1,6 +1,6 @@
 <!-- Profile README for meierms1 -->
 
-<h1 align="center">Hi there, I'm Max Meier 👋</h1>
+<h1 align="center">Hi there, I'm Mike Meier 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Solid%20Mechanics-blue?logo=c%2b%2b&logoColor=white" alt="C++ Badge"/>
